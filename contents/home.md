@@ -8,7 +8,7 @@ As an student in Applied Math and Statistics, I love finding structure in messy 
 ziwen.pan[at]emory.edu
 
 #### Education
-B.S., Applied Mathematics and Statistics, Computer Science Minor, Emory University, 2013—2026 (Expected).
+B.S., Applied Mathematics and Statistics, Computer Science Minor, Emory University, 2023—2026 (Expected).
 
 #### Research Interests
 Multimodal Machine Learning for Social and Consumer Insights, Causal and Game-Theoretic Modeling in AI-Driven Policy and Labor Systems, Network and Spectral Methods in Applied Mathematics and Social Systems
